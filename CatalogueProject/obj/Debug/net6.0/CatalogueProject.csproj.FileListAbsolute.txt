@@ -1,0 +1,15 @@
+/Users/aiyshazahid/Desktop/CatalogueProject/obj/Debug/net6.0/CatalogueProject.csproj.AssemblyReference.cache
+/Users/aiyshazahid/Desktop/CatalogueProject/obj/Debug/net6.0/CatalogueProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aiyshazahid/Desktop/CatalogueProject/obj/Debug/net6.0/CatalogueProject.AssemblyInfoInputs.cache
+/Users/aiyshazahid/Desktop/CatalogueProject/obj/Debug/net6.0/CatalogueProject.AssemblyInfo.cs
+/Users/aiyshazahid/Desktop/CatalogueProject/obj/Debug/net6.0/CatalogueProject.csproj.CoreCompileInputs.cache
+/Users/aiyshazahid/Desktop/CatalogueProject/bin/Debug/net6.0/CatalogueProject
+/Users/aiyshazahid/Desktop/CatalogueProject/bin/Debug/net6.0/CatalogueProject.deps.json
+/Users/aiyshazahid/Desktop/CatalogueProject/bin/Debug/net6.0/CatalogueProject.runtimeconfig.json
+/Users/aiyshazahid/Desktop/CatalogueProject/bin/Debug/net6.0/CatalogueProject.dll
+/Users/aiyshazahid/Desktop/CatalogueProject/bin/Debug/net6.0/CatalogueProject.pdb
+/Users/aiyshazahid/Desktop/CatalogueProject/obj/Debug/net6.0/CatalogueProject.dll
+/Users/aiyshazahid/Desktop/CatalogueProject/obj/Debug/net6.0/refint/CatalogueProject.dll
+/Users/aiyshazahid/Desktop/CatalogueProject/obj/Debug/net6.0/CatalogueProject.pdb
+/Users/aiyshazahid/Desktop/CatalogueProject/obj/Debug/net6.0/CatalogueProject.genruntimeconfig.cache
+/Users/aiyshazahid/Desktop/CatalogueProject/obj/Debug/net6.0/ref/CatalogueProject.dll
