@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZFTplYgTpfd6jyW2zQl4RyOUVcqu89UvzwkXC/hcd+b6s7+OgWDxYy9BIHIbZfnYrDiU2YBtuVJ+/vkynkYWtg==",
+  "success": true,
+  "projectFilePath": "/Users/aiyshazahid/Desktop/CatalogueProject/CatalogueProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/aiyshazahid/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
