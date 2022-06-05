@@ -16,8 +16,9 @@ namespace CatalogueProject
 
         }
 
-
-
+        public class Catalogue<T> where T : Products
+        {
+        }
     }
 }
 
